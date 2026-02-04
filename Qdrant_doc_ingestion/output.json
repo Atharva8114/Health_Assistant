@@ -1,0 +1,32 @@
+{
+  "text": "In patients with type 2 diabetes and chronic kidney disease, metformin use was associated with improved glycaemic control but increased risk of lactic acidosis in advanced renal impairment. This study evaluated long-term safety outcomes in a multicenter cohort.",
+  "pmid": "38723421",
+  "title": "Safety and effectiveness of metformin in patients with chronic kidney disease",
+  "journal": "Journal of Clinical Endocrinology",
+  "year": 2024,
+  "authors": [
+    "A. Smith",
+    "B. Kumar",
+    "C. Lee"
+  ],
+  "section": "Abstract",
+  "chunk_index": 0,
+  "source": "pubmed_api",
+  "api_query": "metformin chronic kidney disease heart rate variability",
+  "retrieved_at": "2026-02-04T11:21:34.135640Z",
+  "entities": {
+    "drugs": [],
+    "conditions": [],
+    "biomarkers": [],
+    "symptoms": []
+  },
+  "relations": [],
+  "kg_node_ids": {
+    "drugs": [],
+    "conditions": [],
+    "biomarkers": [],
+    "symptoms": []
+  },
+  "study_type": null,
+  "confidence_level": null
+}

@@ -16,7 +16,7 @@ def create_collection_if_not_exists(client):
         client.create_collection(
             collection_name=COLLECTION,
             vectors_config=VectorParams(
-                size=768,
+                size=1024,
                 distance=Distance.COSINE
             )
         )

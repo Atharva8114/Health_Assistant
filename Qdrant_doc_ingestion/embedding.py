@@ -1,6 +1,6 @@
 from sentence_transformers import SentenceTransformer
 
-_model = SentenceTransformer("all-mpnet-base-v2")
+_model = SentenceTransformer("BAAI/bge-m3")
 
 def embed_texts(texts):
-    return _model.encode(texts).tolist()
+    return _model.encode(texts, normalize_embeddings=True).tolist()
